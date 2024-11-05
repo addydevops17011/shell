@@ -1,0 +1,1 @@
+echo " started learning shell script"
